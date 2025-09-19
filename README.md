@@ -1,3 +1,13 @@
+# @discere-os/fmt.wasm
+
+WebAssembly port of fmt - High-performance C++ formatting library with SIMD optimizations and modern TypeScript interfaces.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/fmt-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/fmt.wasm)](https://jsr.io/@discere-os/fmt.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Ffmt.wasm.svg)](https://badge.fury.io/js/@discere-os%2Ffmt.wasm)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 <img src="https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png" alt="{fmt}" width="25%"/>
 
 [![image](https://github.com/fmtlib/fmt/workflows/linux/badge.svg)](https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux)
@@ -484,3 +494,21 @@ advisory](https://github.com/fmtlib/fmt/security/advisories/new).
 This project is maintained by a team of volunteers on a
 reasonable-effort basis. As such, please give us at least *90* days to
 work on a fix before public exposure.
+
+
+## 💖 Support This Work
+
+This WebAssembly port is part of a larger effort to bring professional desktop applications to browsers with native performance.
+
+**👨‍💻 About the Maintainer**: [Isaac Johnston (@superstructor)](https://github.com/superstructor) - Building foundational browser-native computing infrastructure through systematic C/C++ to WebAssembly porting.
+
+**📊 Impact**: 70+ open source WASM libraries enabling professional applications like Blender, GIMP, and scientific computing tools to run natively in browsers.
+
+**🚀 Your Support Enables**:
+- Continued maintenance and updates
+- Performance optimizations
+- New library ports and integrations
+- Documentation and tutorials
+- Cross-browser compatibility testing
+
+**[💖 Sponsor this work](https://github.com/sponsors/superstructor)** to help build the future of browser-native computing.
