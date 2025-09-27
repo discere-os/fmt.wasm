@@ -1,3 +1,5 @@
+/.emcache/
+/install/
 *.a
 *.so*
 *.xcodeproj
